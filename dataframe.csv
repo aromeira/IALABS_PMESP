@@ -1,0 +1,13 @@
+ID,Nome_Completo,Idade,Sexo,Endereco,Latitude,Longitude,Educacao,Ultimo_Emprego,Redes_Sociais,Historico_Criminal,Seguidores_Redes,Saldo_Devedor,Envolvimento,altura,reservista,Score_Aderencia,Score_Final
+1,João Silva,30,M,"Avenida Paulista, 1114 - Apto 23, Bela Vista, São Paulo, SP",-23.561684,-46.655981,ensino medio,10 anos na empresa X como mecânico,positivo,S,15,0,sim,160,S,-60,13.019391
+2,Maria Oliveira,25,F,"Rua Conselheiro Nebias, 785 - Sala 101, Campos Elíseos, SP",-23.538316,-46.664351,graduação,5 anos na empresa A como Analista de Marketing,negativo,N,2267,5000,não,180,N,135,67.036011
+3,Carlos Santos,29,M,"Rua Robertson, 56 - Casa 2, Vila Mariana, São Paulo, SP	",-23.585143,-46.663346,pos-graduação,3 anos na universidade B como Pesquisador,positivo,N,800,450,sim,155,S,0,29.639889
+4,Ana Pereira,23,F,"Rua Robertson, 1289 - Apto 45, Pinheiros, São Paulo, SP	",-23.561555,-46.683078,graduação,2 anos como Advogada em firma C,positivo,S,112,7678,sim,158,N,-88,5.263158
+5,Pedro Lima,35,M,"Avenida Rebouças, 2345 - Loja A, Jardins, São Paulo, SP	",-23.561415,-46.670895,graduação,5 anos como Diretor na empresa D,positivo,S,349,10000,sim,176,S,-85,6.094183
+6,Carla Souza,28,F,"Rua Maria José da Conceição, 345 - Apto 12, Moema, São Paulo, SP	",-23.601253,-46.664183,graduação,4 anos como Psicóloga clínica,positivo,N,31,0,não,182,N,254,100.000000
+7,Lucas Fernandes,26,M,"Avenida Ibirapuera, 1980 - Sala 303, Indianópolis, São Paulo, SP	",-23.610069,-46.658567,graduação,4 anos como Desenvolvedor na empresa H,negativo,N,180,0,sim,201,S,214,88.919668
+8,Paula Costa,36,F,"Rua Lira dos Verdes Anos, 98 - Casa 4, Saúde, São Paulo, SP	",-23.620118,-46.643981,ensino medio,3 anos como atendente de caixa,positivo,N,165,50000,não,148,N,0,29.639889
+9,Roberto Dias,22,M,"Rua Conselheiro Nebias, 652 - Loja B, Barra Funda, São Paulo, SP	",-23.538316,-46.647812,pos-graduação,2 anos como Economista,positivo,N,250,1300,não,158,N,0,29.639889
+10,Fernanda Almeida,21,F,"Avenida Rebouças, 1500 - Apto 21, Cerqueira César, São Paulo, SP	",-23.554481,-46.668762,ensino medio,3 anos como Professora no colégio L,negativo,S,140,0,sim,178,N,-107,0.000000
+11,Marcelo Nunes,29,M,"Avenida Ibirapuera, 1234 - Sala 202, Vila Clementino, São Paulo, SP	",-23.610069,-46.641787,graduação,2 anos como Contador na empresa M,positivo,S,1200,1900,não,183,S,-88,5.263158
+12,Júlia Ribeiro,30,F,"Avenida Paulista, 2000 - Apto 56, Consolação, São Paulo, SP",-23.555771,-46.661843,ensino medio,5 anos como Designer Gráfico na agência O,negativo,S,340,0,sim,149,N,0,29.639889
